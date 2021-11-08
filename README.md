@@ -1,6 +1,6 @@
 # MeditationAppUI
 Beautiful meditation app UI built with Jetpack Compose.
 
-##Technologies Used
+## Technologies Used
 - Jetpack Compose
 - Kotlin
